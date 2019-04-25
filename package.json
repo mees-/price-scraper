@@ -1,0 +1,17 @@
+{
+  "name": "anwbscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mees van Dijk <mees@mees.io> (https://mees.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.14",
+    "delay": "^4.2.0",
+    "p-queue": "^5.0.0",
+    "puppeteer": "^1.14.0"
+  }
+}
