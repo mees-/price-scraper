@@ -9,10 +9,8 @@
   "author": "Mees van Dijk <mees@mees.io> (https://mees.io/)",
   "license": "ISC",
   "dependencies": {
-    "convert-csv-to-json": "0.0.14",
-    "delay": "^4.2.0",
     "fs-extra": "^7.0.1",
-    "p-queue": "^5.0.0",
-    "puppeteer": "^1.14.0"
+    "got": "^9.6.0",
+    "p-queue": "^5.0.0"
   }
 }
