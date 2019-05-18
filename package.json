@@ -11,6 +11,7 @@
   "dependencies": {
     "fs-extra": "^7.0.1",
     "got": "^9.6.0",
-    "p-queue": "^5.0.0"
+    "p-queue": "^5.0.0",
+    "random": "^2.1.1"
   }
 }
